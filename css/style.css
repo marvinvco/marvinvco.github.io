@@ -120,6 +120,10 @@
     .menu{
         display: none;
     }
+
+    .footer_area{
+        position: relative;
+    }
 }
 
 /* Breakpoint: 1024 */
