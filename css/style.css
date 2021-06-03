@@ -64,6 +64,10 @@
     font-size: 20px;
 }
 
+#cursos img{
+    width: 250px;
+}
+
 .main_aluno{
     padding: 70px;
     background-color: lightgray;
